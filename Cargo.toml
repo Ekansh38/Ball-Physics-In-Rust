@@ -1,0 +1,9 @@
+[package]
+name = "thing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+macroquad = "*"
+rand = "0.8.5"
